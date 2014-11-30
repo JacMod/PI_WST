@@ -16,3 +16,6 @@ $prawda = FALSE;
 $tablica[1] = 'wartość1'; // $tablica[raz] = 'wartość1';
 $tablica[2] = 'wartość2'; // $tablica[dwa] = 'wartość2';
 $tablica[3] = 'wartość3';
+
+
+$_get['parametr'] = 'wartość'; parametry w adresie po "?" ?param1=wart1&param2=wart2
