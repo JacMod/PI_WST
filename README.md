@@ -13,6 +13,6 @@ $text = "jakiś tekst";
 $liczba = 10;
 $pi = 3.1415;
 $prawda = FALSE;
-$tablica[1] = 'wartość1';
-$tablica[2] = 'wartość2';
+$tablica[1] = 'wartość1'; // $tablica[raz] = 'wartość1';
+$tablica[2] = 'wartość2'; // $tablica[dwa] = 'wartość2';
 $tablica[3] = 'wartość3';
